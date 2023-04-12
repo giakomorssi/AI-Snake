@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giakomorossi
+- 👋 Hi, I’m @giakomorssi
 - 👀 I’m interested in Data Science and Programming
 - 🌱 I’m currently learning Python for Data science
 - 📫 How to reach me, giakomorossi@gmail.com
